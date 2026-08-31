@@ -1,4 +1,4 @@
-## 8os project is mainly going to be on built on s10e exnyos version sm /ds version
+NOW a11X PROJECT
 
 <!--
 **8osproject/8osproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
